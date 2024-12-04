@@ -1,4 +1,4 @@
-# Hi! My name is Cailey.
+# Hi! I'm Cailey, and...
 
 - 🧜🏼‍♀️ I am a third-year computer engineering student at UCSD.
 - 💻 I am interested in systems/IT, software engineering, and cybersecurity!
