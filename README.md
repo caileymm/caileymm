@@ -1,8 +1,7 @@
 # Hi! I'm Cailey, and...
 
-- 🧜🏼‍♀️ I am a Computer Engineering student at UCSD.
-- 💻 I am interested in software engineering and IT/systems engineering!
-- 👩🏻‍🏫 I recently designed and developed a study-group finder app called Cramr.
-- ♥️ I am passionate about using technology to make a positive impact on the world.
+- 🐵 I am a Computer Engineering student at UC San Diego and was previously an iOS Software Engineer intern at Intuit!
+- 📱 I specialize in mobile and web development with hands-on experience in Swift, React Native, TypeScript, React, and JavaScript.
+- 📬 I recently built a chat interface that allows users to edit their email campaigns by prompting an AI agent in the Mailchimp iOS app!
 
 
